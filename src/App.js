@@ -4,7 +4,7 @@ import theme from "reakit-theme-default"
 
 const App = () => (
   <Provider theme={theme}>
-    <Button>Button</Button>
+    <Button>Click here</Button>
   </Provider>
 )
 
