@@ -1,5 +1,3 @@
-[![Version](https://img.shields.io/github/package-json/v/omhoumz/sample-reakit.svg?style=flat-square)](https://img.shields.io/github/package-json/v/omhoumz/sample-reakit.svg?style=flat-square)
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
